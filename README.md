@@ -1,12 +1,12 @@
 # Inteligência Artificial
 
 <div align="center">
- <img height=150 width=170 src="https://play-lh.googleusercontent.com/uq47z-7dS8h-tMRXGa6J0LLFgiPpfwUIndWBIossSakKW8pp1Yi1Llv55l3yPCr6iQ">
+ <img height=150 width=250 src="https://www.mundodomarketing.com.br/wp-content/uploads/2023/06/Introducao-da-Inteligencia-Artificial-no-cotidiano-empresarial-pode-ser-mais-simples-do-que-parece.jpg">
 </div>
 
 Bem-vindo ao repositório da disciplina de Inteligência Artificial! Aqui você encontrará os projetos desenvolvidos ao longo da disciplina realizada em 2024/1.
 
-## 🚀 Trabalhos
+## 🤖 Trabalhos
 
 Neste repositório estão os trabalhos que foram realizados durante a realização da disciplina. Aqui estão eles:
 
