@@ -1,30 +1,73 @@
-# Inteligência Artificial
+# 🤖 Inteligência Artificial
 
 <div align="center">
  <img height=150 width=250 src="https://www.mundodomarketing.com.br/wp-content/uploads/2023/06/Introducao-da-Inteligencia-Artificial-no-cotidiano-empresarial-pode-ser-mais-simples-do-que-parece.jpg">
 </div>
 
-Bem-vindo ao repositório da disciplina de Inteligência Artificial! Aqui você encontrará os projetos desenvolvidos ao longo da disciplina realizada em 2024/1.
+Bem-vindo ao repositório da disciplina de **Inteligência Artificial** que foi realizada em 2024/01! Aqui, você encontrará os trabalhos, projetos entre outras coisas que realizei durante esta cadeira.
 
-## 🤖 Trabalhos
+## ℹ️ Informações
 
-Neste repositório estão os trabalhos que foram realizados durante a realização da disciplina. Aqui estão eles:
+- **Status:** Em andamento
+- **Realizada em:** 2024/01
+- **Nome:** Inteligência Artificial
+- **Link:** https://github.com/DudaWendelMaia/IA.git
 
-### 1. #️⃣ Jogo da Velha
+## 🌟 Visão Geral
 
-- **Descrição:** 
+Este repositório é dedicado aos trabalhos realizados ao longo da disciplina de Inteligência Artificial. Ela foca em:
 
+- Aprendizado de Máquina (Machine Learning)
+- Processamento de Linguagem Natural (Natural Language Processing - NLP)
+- Visão Computacional (Computer Vision)
+- Redes Neurais
 
-## 🎓 Como Usar Este Repositório
+## 🗂️ Estrutura do Repositório
 
-1. **Clone o Repositório:**
+Abaixo, você encontra a organização dos conteúdos presentes neste repositório:
 
-https://github.com/DudaWendelMaia/Inteligência-Artificial.git
+```
+📦 IA
+├── 📁 Jogo da Velha
+│   ├── 📄 
+│   └── 📄 README.md
+├── 📁 Trabalho 2
+│   ├── 📄 
+│   ├── 📄 
+│   └── 📄 README.md
+├── 📁 Trabalho2
+│   ├── 📄 
+│   ├── 📄 
+│   └── 📄 
+└── 📄 README.md
+```
 
-2. Explore os Trabalhos:
-Cada trabalho tem seu próprio espaço e sua descrição. Abra as pastas, veja os códigos e os desafios.
+## 🔧 Como Utilizar
 
-3. Diversão Sem Limites:
-Sinta-se à vontade para experimentar, alterar e aprender com os códigos.
+Para explorar os trabalhos:
 
- 🚀✨
+1. Navegue até a pasta do trabalho desejado.
+2. Leia o README.md para entender o contexto do trabalho e as instruções de execução.
+3. Execute o código-fonte conforme as instruções fornecidas.
+
+## 🚀 Trabalhos Destaques
+
+### Trabalho 1: Jogo da Velha
+Este primeiro trabalho consiste no desenvolvimento de um jogo da velha com o uso de IA e de uma interface com o usuário.
+
+### Trabalho 2: 
+
+### Trabalho 3: 
+
+## 📫 Contato
+
+Para dúvidas, sugestões ou contribuições, entre em contato:
+
+- **Nome:** Maria Maia
+- **Email:** mariawendelmaia@gmail.com
+- **LinkedIn:** www.linkedin.com/in/maria-eduarda-wendel-maia
+
+---
+
+Espero que este repositório tenha sido útil para você!  🚀✨
+
