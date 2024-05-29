@@ -1,7 +1,7 @@
 # 🤖 Inteligência Artificial
 
 <div align="center">
- <img height=150 width=250 src="https://www.mundodomarketing.com.br/wp-content/uploads/2023/06/Introducao-da-Inteligencia-Artificial-no-cotidiano-empresarial-pode-ser-mais-simples-do-que-parece.jpg">
+ <img height=250 width=250 src="https://i.pinimg.com/originals/ab/53/c3/ab53c3258caa5c3c691b4de46cb5ad88.gif">
 </div>
 
 Bem-vindo ao repositório da disciplina de **Inteligência Artificial** que foi realizada em 2024/01! Aqui, você encontrará os trabalhos, projetos entre outras coisas que realizei durante esta cadeira.
