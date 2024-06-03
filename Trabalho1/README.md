@@ -8,7 +8,7 @@
 - **Autores:** Felipe Freitas, Luiza Plá, Maria Maia, Paola Lopes.
 - **Data:** 02/06/2024
 - **Linguagem:** Phyton
-- **Status:** Concluído
+- **Status:** Em andamento
 - **Descrição:** Problema do jogo da velha com IA.
 - **Link:** https://github.com/DudaWendelMaia/IA.git
 
