@@ -13,7 +13,15 @@
 - **Link:** https://github.com/DudaWendelMaia/IA.git
 
 ## 🎯 Problema
-O problema das n-rainhas é um desafio clássico de otimização combinatória. Consiste em posicionar n rainhas em um tabuleiro de xadrez NxN de modo que nenhuma rainha possa atacar outra.
+Esta pasta apresenta o desenvolvimento e a implementação de um sistema de Inteligência Artificial (IA) para o clássico jogo da velha em um tabuleiro 3x3. O objetivo principal é construir uma IA capaz de analisar o estado atual do tabuleiro e classificar esse estado em quatro possíveis categorias: 'Tem jogo', 'Jogador X venceu', 'Jogador O venceu' e 'Empate'.
+
+Para alcançar esse objetivo, utilizamos um conjunto de dados disponível publicamente no UCI Machine Learning Repository, que contém instâncias do tabuleiro do jogo da velha. Este conjunto de dados foi analisado e transformado conforme necessário para atender às necessidades do problema.
+
+A solução de IA proposta neste trabalho envolve a implementação e teste de três algoritmos classificadores: k-NN, MLP e árvores de decisão. Cada algoritmo foi treinado e validado usando o mesmo conjunto de dados, permitindo uma comparação justa de seu desempenho. A acurácia foi escolhida como a métrica de avaliação principal para medir o desempenho dos algoritmos.
+
+Além disso, foi desenvolvido um front-end mínimo para o jogo da velha, permitindo a interação entre um jogador humano e uma máquina que joga de forma aleatória. A cada turno, a solução de IA é invocada para determinar o estado do jogo e fornecer feedback ao usuário.
+
+Este relatório documenta em detalhes todas as etapas do processo, desde a análise e preparação dos dados até a implementação e avaliação dos algoritmos de IA. Também são apresentados os resultados obtidos e uma discussão sobre a eficácia da solução proposta.
 
 ### Detalhes do Problema
 - **Complexidade:** NP-completo devido ao crescimento exponencial das possíveis soluções com o tamanho do tabuleiro.
