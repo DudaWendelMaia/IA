@@ -8,7 +8,7 @@
 - **Autores:** Felipe Freitas, Luiza Plá, Maria Maia, Paola Lopes.
 - **Data:** 02/06/2024
 - **Linguagem:** Phyton
-- **Status:** Em andamento
+- **Status:** Concluído
 - **Descrição:** Problema do jogo da velha com IA.
 - **Link:** https://github.com/DudaWendelMaia/IA.git
 
@@ -33,16 +33,25 @@ Certifique-se de ter tudo instalado. Clone o repositório, compile o código e e
     cd "Trabalho1"
     ```
 
-3. Compile o código:
+### Para o frontend:
+
+3. instale as dependências:
     ```sh
-      
+    npm install
     ```
 
-4. Execute o programa:
+4. Inicie o programa:
     ```sh
-      
+    npm run start
     ```
+    
+### Para o backend:
 
+3. Rode o programa:
+    ```sh
+    python main.py
+    ```
+    
 ---
 
 Espero que este trabalho tenha sido útil! ⭐🚀
