@@ -29,7 +29,7 @@ Abaixo, você encontra a organização dos conteúdos presentes neste repositór
 ```
 📦 IA
 ├── 📁 Jogo da Velha
-│   ├── 📁 codigo
+│   ├── 📁 Código
 │   ├── 📄 Enunciado.pdf
 │   ├── 📄 README.md
 │   └── 📄 Relatório.pdf
