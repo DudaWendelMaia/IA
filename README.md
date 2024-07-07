@@ -11,7 +11,7 @@ Bem-vindo ao repositório da disciplina de **Inteligência Artificial** que foi 
 - **Status:** Em andamento
 - **Realizada em:** 2024/01
 - **Nome:** Inteligência Artificial
-- **Link:** https://github.com/DudaWendelMaia/IA.git
+- **Link:** [Link Repositorio](https://github.com/DudaWendelMaia/IA.git)
 
 ## 🌟 Visão Geral
 
