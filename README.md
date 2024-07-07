@@ -33,7 +33,7 @@ Abaixo, você encontra a organização dos conteúdos presentes neste repositór
 │   ├── 📄 Enunciado.pdf
 │   ├── 📄 README.md
 │   └── 📄 Relatório.pdf
-├── 📁 Trabalho 2
+├── 📁 Ética em IA
 │   ├── 📄 
 │   ├── 📄 
 │   └── 📄 README.md
@@ -57,9 +57,9 @@ Para explorar os trabalhos:
 ### Trabalho 1: Jogo da Velha
 Este primeiro trabalho consiste no desenvolvimento de um jogo da velha com o uso de IA e de uma interface com o usuário.
 
-### Trabalho 2: 
+### Trabalho 2: Ética em IA
+Este trabalho consiste no desenvolvimento de um video falando sobre a Ética em IA 
 
-### Trabalho 3: 
 
 ## 📫 Contato
 
